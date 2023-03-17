@@ -1,0 +1,7 @@
+# Project exclude paths
+/AccountService/target/
+/DTUFacade/target/
+/messaging-utilities/target/
+/PaymentService/target/
+/ReportService/target/
+/TokenService/target/

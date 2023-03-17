@@ -1,0 +1,5 @@
+version: '3'
+services:
+  dtupay_server:
+    image: dtupay_server
+    build: .
